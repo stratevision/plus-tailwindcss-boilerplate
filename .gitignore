@@ -1,1 +1,10 @@
-node_modules
+.idea/
+
+# Dependency directories
+node_modules/
+
+# Dependency files
+package-lock.json
+mix-manifest.json
+yarn.lock
+

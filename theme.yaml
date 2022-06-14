@@ -1,4 +1,4 @@
-name: 'TailwindCSS Boilerplate'
+name: 'plus-tailwindcss-engine'
 description: 'TailwindCSS with Webpack, PostCSS and PurgeCSS pre-configured for OctoberCMS to quickly create awesome themes.'
 author: "Romain 'Maz' B"
 homepage: https://www.octobercms.fr

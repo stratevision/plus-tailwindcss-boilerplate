@@ -37,6 +37,7 @@ async function config()
     }
 
     return {
+        stats: { children: false },
         entry: {
             context: from,
         },
